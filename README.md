@@ -35,7 +35,9 @@ My hobbies are outside of coding are Reading Books and Documentation, staying in
   <a href="https://nodejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js"></a>
   <a href="https://www.java.com/" target="_blank"><img src="https://skillicons.dev/icons?i=java" alt="Java"></a>
   <a href="https://spring.io/" target="_blank"><img src="https://skillicons.dev/icons?i=spring" alt="Spring"></a>
-  <a href="https://expressjs.com/" target="_blank"><img src="https://skillicons.dev/icons?i=express" alt="Express"></a>
+  <a href="https://www.php.net/" target="_blank"><img src="https://skillicons.dev/icons?i=php" alt="PHP"></a>
+  <a href="https://redis.io/" target="_blank"><img src="https://skillicons.dev/icons?i=redis" alt="Redis"></a>
+  <a href="https://discord.js.org/" target="_blank"><img src="https://skillicons.dev/icons?i=discordjs" alt="DiscordJS"></a>
 </div>
  
 ## *DevOps & Cloud* 
