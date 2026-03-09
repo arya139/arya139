@@ -72,5 +72,5 @@ My hobbies are outside of coding are Reading Books and Documentation, staying in
   <a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL"></a>
   <a href="https://www.postgresql.org/" target="_blank"><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL"></a>
   <a href="https://redis.io/" target="_blank"><img src="https://skillicons.dev/icons?i=redis" alt="Redis"></a>
-  <a href="https://qdrant.tech/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=qdrant alt="Qdrant"></a>
+  <a href="https://qdrant.tech/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=qdrant" alt="Qdrant"></a>
 </div>
