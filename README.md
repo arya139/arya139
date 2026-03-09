@@ -26,7 +26,6 @@ My hobbies are outside of coding are Reading Books and Documentation, staying in
   <a href="https://tailwindcss.com/" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS"></a>
   <a href="https://vitejs.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=vite" alt="Vite"></a>
   <a href="https://nextjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js"></a>
-  <a href="https>//angular.dev/" target="_blank"><img src="https.//skillicons.dev/icons?i=angular" alt="Angular"></a>
   <a href="https://www.figma.com/" target="_blank"><img src="https://skillicons.dev/icons?i=figma" alt="Figma"></a>
 </div>
 
