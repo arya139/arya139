@@ -39,6 +39,23 @@ My hobbies are outside of coding are Reading Books and Documentation, staying in
   <a href="https://redis.io/" target="_blank"><img src="https://skillicons.dev/icons?i=redis" alt="Redis"></a>
   <a href="https://discord.js.org/" target="_blank"><img src="https://skillicons.dev/icons?i=discordjs" alt="DiscordJS"></a>
 </div>
+
+## *Robotics & AI*
+<div>
+  <a href="https://www.ros.org/" target="_blank"><img src="https://skillicons.dev/icons?i=ros" alt="ROS"></a>
+  <a href="https://www.arduino.cc/" target="_blank"><img src="https://skillicons.dev/icons?i=arduino" alt="Arduino"></a>
+  <a href="https://opencv.org/" target="_blank"><img src="https://skillicons.dev/icons?i=opencv" alt="OpenCV"></a>
+  <a href="https://pytorch.org/" target="_blank"><img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch"></a>
+  <a href="https://www.c-language.org/" target="_blank"><img src="https://skillicons.dev/icons?i=c" alt="C"></a>
+  <a href="https://isocpp.org/" target="_blank"><img src="https://skillicons.dev/icons?i=cpp" alt="C++"></a>
+  <a href="https://www.qt.io/" target="_blank"><img src="https://skillicons.dev/icons?i=qt" alt="QT"></a>
+</div>
+
+## *Systems / Low Level*
+<div>
+  <a href="https://linux.org" target="_blank"><img src="https://skillicons.dev/icons?i=linux" alt="Linux"></a>
+  <a href="https:/www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html" target="_blank"><img src="https://skillicons.dev/icons?i=bash" alt="Bash"></a>
+</div>
  
 ## *DevOps & Cloud* 
 <div>
@@ -54,4 +71,6 @@ My hobbies are outside of coding are Reading Books and Documentation, staying in
   <a href="https://www.mongodb.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB"></a>
   <a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL"></a>
   <a href="https://www.postgresql.org/" target="_blank"><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL"></a>
+  <a href="https://redis.io/" target="_blank"><img src="https://skillicons.dev/icons?i=redis" alt="Redis"></a>
+  <a href="https://qdrant.tech/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=qdrant alt="Qdrant"></a>
 </div>
