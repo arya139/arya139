@@ -12,7 +12,7 @@ That curiosity led me to pursue a degree *Analysis and Systems Development* at S
 
 Today, i mostly work by myself, either as a *Freelancer* or personal projects, like *ETA* and *RoboStack*.
 
-My hobbies are outside of coding are Reading Books and Documentation, staying in touch with the latest technologies on the market, and, brainstorming ideas.
+My hobbies outside of coding/developing algorithms are Reading Books and Documentation, staying in touch with the latest technologies on the market, and, brainstorming ideas.
 
 ## 🛠️ - TechStack 
 
