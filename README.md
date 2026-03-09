@@ -7,8 +7,11 @@
 `Software/Robotics Engineer`
 
 My name is Gabriel, i have always been curious on the idea of "creation", especially when it comes to intelligent life.
+
 That curiosity led me to pursue a degree *Analysis and Systems Development* at Senac/MS, where i learned to turn ideas into functional solutions.
+
 Today, i mostly work by myself, either as a *Freelancer* or personal projects, like *ETA* and *RoboStack*.
+
 My hobbies are outside of coding are Reading Books and Documentation, staying in touch with the latest technologies on the market, and, brainstorming ideas.
 
 ## 🛠️ - TechStack 
