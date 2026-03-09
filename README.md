@@ -52,6 +52,7 @@ My hobbies are outside of coding are Reading Books and Documentation, staying in
   <a href="https://www.c-language.org/" target="_blank"><img src="https://skillicons.dev/icons?i=c" alt="C"></a>
   <a href="https://isocpp.org/" target="_blank"><img src="https://skillicons.dev/icons?i=cpp" alt="C++"></a>
   <a href="https://www.qt.io/" target="_blank"><img src="https://skillicons.dev/icons?i=qt" alt="QT"></a>
+  <a href="https://ollama.com/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=ollama" alt="Ollama"></a>
 </div>
 
 ## *Systems / Low Level*
