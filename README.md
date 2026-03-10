@@ -6,7 +6,7 @@
 
 `Software/Robotics Engineer`
 
-My name is Gabriel, i have always been curious on the idea of "creation", especially when it comes to intelligent life.
+My real name is Gabriel, from Brazil, i have always been curious on the idea of "creation", especially when it comes to intelligent life.
 
 That curiosity led me to pursue a degree *Analysis and Systems Development* at Senac/MS, where i learned to turn ideas into functional solutions.
 
