@@ -10,7 +10,7 @@ My real name is Gabriel, from Brazil, i have always been curious on the idea of 
 
 That curiosity led me to pursue a degree *Analysis and Systems Development* at Senac/MS, where i learned to turn ideas into functional solutions.
 
-Today, i mostly work by myself, either as a *Freelancer* or personal projects, like *Atri*.
+Today, i mostly work by myself, either as a *Freelancer* or personal projects, like *Atri* (will release it someday).
 
 My hobbies outside of coding/developing algorithms are Reading Books and Documentation, staying in touch with the latest technologies on the market, and, brainstorming ideas.
 
